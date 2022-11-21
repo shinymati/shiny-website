@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+#container{
+    margin-left: 550px;
+    margin-right: 550px;
+}
